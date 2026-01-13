@@ -13,3 +13,5 @@ api.interceptors.request.use((config) => {
 
   return config;
 });
+
+export const imageUrl = 'https://image.tmdb.org/t/p/original';
